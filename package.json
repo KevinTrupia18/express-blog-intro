@@ -1,0 +1,12 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "prima esercitazione con il backend ",
+  "license": "ISC",
+  "author": "kevin trupia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
